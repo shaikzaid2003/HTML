@@ -1,0 +1,16 @@
+div{
+    border:50px solid;
+    padding:20px;
+    margin:30px;
+}
+.d1
+{
+ background-color:aqua;
+ display:flex;
+}
+.d1>dv
+{
+ background-color:yellow;
+ height:20px;
+ width:10px;
+}
